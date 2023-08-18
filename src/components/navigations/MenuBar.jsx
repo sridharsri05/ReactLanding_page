@@ -1,4 +1,4 @@
-import logoImage from './../../images/favicon.png'
+import logoImage from '../../../public/images/favicon.png'
 import './MenuBar.css'
 
 const MenuBar = () => {
